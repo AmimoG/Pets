@@ -1,0 +1,11 @@
+img{
+    width: 40%;
+    height: auto;
+    flex: right;
+}
+
+p{
+    /* text-align: center; */
+    float: right;
+}
+
